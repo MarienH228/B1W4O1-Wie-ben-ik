@@ -1,0 +1,47 @@
+body{
+	background-color: Aquamarine
+	;
+}
+
+.selfie{
+	width: 300px;
+	border: 2px solid black; 
+}
+
+img.selfie{
+	float: right;
+}
+
+
+.setup{
+	width: 600px;
+	border: 2px solid black; 
+}
+
+img.setup{
+	float: right;
+}
+
+
+.natuur{
+	width: 400px;
+	border: 2px solid black; 
+}
+
+img.natuur{
+	float: right;
+}
+
+
+.software{
+	width: 400px
+}
+
+img.software{
+	float: right;
+}
+
+
+.bijbaan{
+	width: 400px
+}
